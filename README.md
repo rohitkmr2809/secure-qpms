@@ -127,7 +127,7 @@ flowchart TD
 
 ---
 
-## 7. Demo Accounts (College Evaluation)
+## 7. Demo Accounts 
 
 For convenience during college viva and project demonstrations, the login page (`/login`) includes **1-Click Quick Demo Login** buttons for all four roles:
 
@@ -359,5 +359,3 @@ Use this checklist during testing and college project evaluation:
 - Threshold cryptography (Shamir's Secret Sharing) requiring $k$-of-$n$ examination officers to jointly unlock the question paper.
 
 ---
-
-**Built with pride for academic demonstration of Cloud Security & Zero-Trust Architecture.**
