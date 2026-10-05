@@ -3,6 +3,15 @@
 > **Academic Disclaimer**: This project is a college microproject / proof-of-concept prototype built for academic demonstration of Zero-Trust security principles, RBAC, authenticated encryption, document integrity hashing, and controlled examination release. It is not intended for production government examination administration without enterprise HSM/KMS infrastructure.
 
 ---
+
+## 🎥 Project Demo
+
+A 2-minute demonstration of the Secure Cloud-Based Competitive Examination
+Question Paper Management System (QPMS).
+
+[▶️ Watch the Project Demo](https://youtu.be/d-XZ34cS_6M)
+
+## 🌐 Live Application
 Live Application link : https://secure-qpms.vercel.app/login
 
 ## 1. Project Overview
